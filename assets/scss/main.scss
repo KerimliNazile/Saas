@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.stylish{
+    background-image: url('https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg');
+    width: 220vh;
+    height: 100vh;
+   
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    .conteiner1{
+        position: absolute;
+    }
+    h1{
+        font-family: 70px;
+        font-size: 80px;
+        margin: 0px 0px 4px;
+        color:black;
+    }
+    em{
+        font-size: 20px;
+        padding-left: 60px;
+    }
+    .btn1{
+        width: 170px;
+        height: 60px;
+        text-decoration: none;
+        color: white;
+        padding: 20px 180px;
+        font-size: 20px;
+    }
+    p{
+        font-size: 26px;
+        padding-left: 60px;
+
+    }
+}
+
+#stylish2{
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 220vh;
+    height: 60vh;
+    .conteiner2{
+        position: absolute;
+    }
+    h2{
+        font-family: 70px;
+        font-size: 40px;
+        margin: 0px 0px 4px;
+        color:black;
+    }
+    
+    
+    .btn2{
+        width: 170px;
+        height: 60px;
+        text-decoration: none;
+        color:black;
+       
+        padding: 30px 180px;
+        font-size: 20px;
+    }
+    p{
+        font-size: 26px;
+        padding-left: 20px;
+
+    }
+
+}
+.Redesigned{
+    font-size: 28px;
+    display:block;
+    text-align: center;
+    color: azure;
+    
+
+}
+.content-section-heading{
+    text-align: center;
+    margin-top: -200px;
+    h3{
+        color: darkgoldenrod;
+    }
+}
+#stylish3{
+    background-color: rgb(32, 212, 224);
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 220vh;
+    height: 60vh;
+    .conteiner3{
+        position: absolute;
+    }
+    h3{
+       
+        font-size: 40px;
+        margin: 0px 0px 2px;
+        color:black;
+    }
+    h2{font-size: 50px;
+        margin: 0px 0px 2px;
+    }
+}
+#callout{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 220vh;
+    height: 60vh;
+    .conteiner3{
+        position: absolute;
+    }
+    h2{
+       
+        font-size: 60px;
+        margin: 0px 0px 2px;
+        color:black;
+    }
+}
+#portfolio{
+   
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 220vh;
+    height: 60vh;
+    .conteiner5{
+        position: absolute;
+    }
+    h6{
+       text-align: center;
+        font-size: 20px;
+        margin: 0px 0px 3px;
+        color:rgb(189, 148, 13);
+    }
+    h1{font-size: 50px;
+        margin: 0px 0px 2px;
+    }
+}
+// .imageone{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/portfolio-1.jpg);
+}
